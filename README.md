@@ -8,7 +8,7 @@ Here's a list of projects I've worked on:
 
 1. [Project 1 Amazon Prime Analysis.](link-to-project1-folder): A brief description of what this project is about.
 
-2. [Project 2 Name](link-to-project2-folder): A brief description of what this project is about.
+2. [Project 2 Snowflake](link-to-project2-folder): A brief description of what this project is about.
 
 3. [Project 3 Name](link-to-project3-folder): A brief description of what this project is about.
 
