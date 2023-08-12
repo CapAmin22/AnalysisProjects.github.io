@@ -41,7 +41,7 @@ Engaging the filter mode, we specifically explored movies categorized as "comedy
 Exploring Amazon Prime's data landscape was an enchanting journey that unveiled intricate patterns, diverse narratives, and a tapestry of entertainment that transcends boundaries of time and culture. Each data point we analyzed told a story, highlighting the power of data to uncover narratives beyond what we see on the screen.
 
 As data analysis enthusiasts and storytellers, we are constantly amazed by how data can reveal the stories that shape our world.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
