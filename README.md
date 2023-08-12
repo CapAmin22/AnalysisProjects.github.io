@@ -61,7 +61,7 @@ Feel free to reach out to me if you have any questions or if you'd like to colla
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amin-shaikh22) <!-- ![LinkedIn](linkedin-icon.png) -->
 - Twitter: [@aminshaikh22](https://twitter.com/aminshaikh22) <!-- ![Twitter](twitter-icon.png) -->
-- Email: [Your LinkedIn Profile]- [Email](mailto:your-email@example.com) <!-- ![Email](email-icon.png) -->
+- Email: [Email](mailto:your-email@example.com) <!-- ![Email](email-icon.png) -->
 - Instagram: [Your Instagram Profile](https://www.linkedin.com/in/amin-shaikh22) <!-- ![Instagram](instagram-icon.png) -->
 - GitHub: [Your GitHub Profile](https://github.com/CapAmin22) <!-- ![GitHub](github-icon.png) -->
 ## Acknowledgments
