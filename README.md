@@ -59,9 +59,11 @@ I'm a passionate data analyst with a keen interest in uncovering insights from d
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. You can find me on LinkedIn and Twitter.
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amin-shaikh22)
-- Twitter: [@aminshaikh22](https://twitter.com/aminshaikh22)
-
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amin-shaikh22) <!-- ![LinkedIn](linkedin-icon.png) -->
+- Twitter: [@aminshaikh22](https://twitter.com/aminshaikh22) <!-- ![Twitter](twitter-icon.png) -->
+- Email: [Your LinkedIn Profile]- [Email](mailto:your-email@example.com) <!-- ![Email](email-icon.png) -->
+- Instagram: [Your Instagram Profile](https://www.linkedin.com/in/amin-shaikh22) <!-- ![Instagram](instagram-icon.png) -->
+- GitHub: [Your GitHub Profile](https://github.com/CapAmin22) <!-- ![GitHub](github-icon.png) -->
 ## Acknowledgments
 
 I'd like to thank the open-source community and fellow data enthusiasts for their continuous support and inspiration.
