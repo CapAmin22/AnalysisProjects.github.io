@@ -60,7 +60,7 @@ I'm a passionate data analyst with a keen interest in uncovering insights from d
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. You can find me on LinkedIn and Twitter.
 
 - [LinkedIn](https://www.linkedin.com/in/amin-shaikh22) <!-- ![LinkedIn](linkedin-icon.png) -->
-- [Tweeter/X](https://twitter.com/aminshaikh22) <!-- ![Twitter](twitter-icon.png) -->
+- [twitter/X](https://twitter.com/aminshaikh22) <!-- ![Twitter](twitter-icon.png) -->
 - [Email](mailto:shaikhaminrehman302@outlook.com) <!-- ![Email](email-icon.png) -->
 - [Instagram](https://www.instagram.com/cap.shaikh/) <!-- ![Instagram](instagram-icon.png) -->
 - [GitHub](https://github.com/CapAmin22) <!-- ![GitHub](github-icon.png) -->
