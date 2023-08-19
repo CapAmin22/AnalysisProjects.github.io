@@ -45,7 +45,8 @@ As data analysis enthusiasts and storytellers, we are constantly amazed by how d
 
 
 
-# 2. [Project 2 Top 1000 Steam Games 2023](https://github.com/CapAmin22/AnalysisProjects.github.io/tree/main/Top%201000%20Steam%20Games%202023): Unveiling Gaming Industry Insights: This dataset provides a window into the gaming world, featuring crucial details like app IDs, developers, reviews, pricing, genres, and more. Through data-driven analysis, I've uncovered hidden correlations and trends that offer a deeper understanding of the gaming landscape. also, data folks please help me with some of your valuable guidance it will help a lot.
+# 2. [Project 2 Top 1000 Steam Games 2023](https://github.com/CapAmin22/AnalysisProjects.github.io/tree/main/Top%201000%20Steam%20Games%202023): 
+Unveiling Gaming Industry Insights: This dataset provides a window into the gaming world, featuring crucial details like app IDs, developers, reviews, pricing, genres, and more. Through data-driven analysis, I've uncovered hidden correlations and trends that offer a deeper understanding of the gaming landscape. also, data folks please help me with some of your valuable guidance it will help a lot.
 
 # 3. [Project 3 Name](https://github.com/CapAmin22/Projects.github.io/tree/main/amazon_prime_Project): A brief description of what this project is about.
 
