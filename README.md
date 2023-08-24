@@ -45,8 +45,112 @@ As data analysis enthusiasts and storytellers, we are constantly amazed by how d
 
 
 
-# 2. [Project 2 Top 1000 Steam Games 2023](https://github.com/CapAmin22/AnalysisProjects.github.io/tree/main/Top%201000%20Steam%20Games%202023): 
-Unveiling Gaming Industry Insights: This dataset provides a window into the gaming world, featuring crucial details like app IDs, developers, reviews, pricing, genres, and more. Through data-driven analysis, I've uncovered hidden correlations and trends that offer a deeper understanding of the gaming landscape. also, data folks please help me with some of your valuable guidance it will help a lot.
+# 2. [Project 2 Top 1000 Steam Games 2023](https://github.com/CapAmin22/AnalysisProjects.github.io/tree/main/Top%201000%20Steam%20Games%202023): Data Analysis Report - Top 1000 Steam Games 2023
+
+In this analysis, we delved into a dataset named "Top 1000 Steam Games 2023," which was provided in CSV format. The dataset contains various attributes related to games available on the Steam platform. Our objective was to extract insights from the dataset using Python and various libraries for data manipulation, visualization, and analysis. We addressed a series of questions to gain insights into different aspects of the gaming industry.
+
+**Python Libraries Used:**
+- `pandas` for data manipulation and analysis.
+- `numpy` for numerical operations.
+- `matplotlib` and `seaborn` for data visualization.
+
+**Dataset Attributes:**
+- `appid`: Game ID on Steam.
+- `name`: Name of the game.
+- `developer`: Developer of the game.
+- `publisher`: Publisher of the game.
+- `positive`: Count of positive reviews.
+- `negative`: Count of negative reviews.
+- `owners`: Estimated number of game owners.
+- `price`: Current price of the game.
+- `initialprice`: Initial price of the game.
+- `discount`: Discount percentage for the game.
+- `languages`: Languages supported by the game.
+- `genre`: Genre of the game.
+- `ccu`: Current concurrent players.
+- `tags`: Tags associated with the game.
+
+**Questions Explored:**
+
+1. **Duplicate Records:**
+We checked for duplicate records in the dataset and removed them if found.
+
+2. **Null Values Heatmap:**
+We visualized the presence of null values in the dataset using a heatmap.
+
+3. **Specific Game Info:**
+We retrieved the `appid` and `developer` information for the game "Left 4 Dead 2."
+
+4. **Top Selling Games:**
+We identified the top 10 best-selling games based on the number of owners.
+
+5. **Price Distribution:**
+We visualized the distribution of game prices in the database.
+
+6. **Genre Analysis:**
+We determined which game genre has the highest average positive review score.
+
+7. **Developer Success:**
+We identified the developer with the highest number of games in the database.
+
+8. **Publisher Influence:**
+We analyzed the correlation between the number of games published by a publisher and their average review scores.
+
+9. **Price vs. Reviews:**
+We investigated whether there is a relationship between game price and review scores.
+
+10. **Discount Impact:**
+We examined whether games with higher discounts tend to have more positive reviews.
+
+11. **Language Diversity:**
+We calculated the average number of different languages supported by the games.
+
+12. **Average Game Price:**
+We determined the average price of games in each genre.
+
+13. **Positive vs. Negative Reviews:**
+We explored the correlation between the number of positive and negative reviews for a game.
+
+14. **Game Ownership vs. Price:**
+We analyzed the relationship between the number of owners and the game price.
+
+15. **Developer vs. Publisher Success:**
+We looked for patterns between a developer's success and the publisher they work with.
+
+16. **Popular Genres:**
+We identified the top three most popular game genres based on the number of games.
+
+17. **Discount and Ownership:**
+We investigated the relationship between the discount percentage and the number of owners a game has.
+
+18. **Developer Performance:**
+We found the developer with the highest average review score.
+
+19. **Genre and Price:**
+We explored whether there is a correlation between the game genre and its price.
+
+**Insights and Observations:**
+
+- Some games have a large number of positive reviews, indicating their popularity.
+- Game prices exhibit a diverse distribution, with variations in pricing strategies.
+- Certain game genres tend to have higher average positive review scores.
+- Some developers have a substantial presence in the dataset, indicating their influence.
+- Positive correlations exist between publisher's success and their average review scores.
+- No clear linear relationship between game price and review scores is apparent.
+- Games with higher discounts tend to have more positive reviews, suggesting a promotional effect.
+- Games support a variety of languages, reflecting efforts to cater to a diverse audience.
+- Game prices differ across genres, with some genres commanding higher prices.
+- A correlation exists between positive and negative reviews, but causation is not established.
+- No strong relationship exists between game ownership and price.
+- Developer success varies regardless of the publisher they work with.
+- Certain genres, like "Action" and "Indie," dominate the database.
+- Limited correlation between discount percentage and ownership suggests other factors at play.
+- Developer "Valve" has the highest average review score.
+- Game genres and their prices are moderately correlated.
+
+**Concluding Remarks:**
+
+Through comprehensive data analysis and visualization, we've uncovered valuable insights into the gaming industry and the attributes that influence game popularity, pricing, and performance. While this report highlights key findings, further exploration and statistical analysis can provide more in-depth insights into the complex dynamics of the gaming market.
 
 # 3. [Project 3 Otodom Properties](https://github.com/CapAmin22/AnalysisProjects.github.io/tree/main/Otodom): Otodom Properties
 
