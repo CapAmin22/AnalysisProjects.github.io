@@ -45,7 +45,7 @@ As data analysis enthusiasts and storytellers, we are constantly amazed by how d
 
 
 
-# 2. [Project 2 Top 1000 Steam Games 2023](https://github.com/CapAmin22/AnalysisProjects.github.io/tree/main/Top%201000%20Steam%20Games%202023): Data Analysis Report - Top 1000 Steam Games 2023
+# 2. [Project 2 Top 1000 Steam Games 2023](https://github.com/CapAmin22/AnalysisProjects.github.io/tree/main/Top%201000%20Steam%20Games%202023):
 
 In this analysis, we delved into a dataset named "Top 1000 Steam Games 2023," which was provided in CSV format. The dataset contains various attributes related to games available on the Steam platform. Our objective was to extract insights from the dataset using Python and various libraries for data manipulation, visualization, and analysis. We addressed a series of questions to gain insights into different aspects of the gaming industry.
 
@@ -152,7 +152,7 @@ We explored whether there is a correlation between the game genre and its price.
 
 Through comprehensive data analysis and visualization, we've uncovered valuable insights into the gaming industry and the attributes that influence game popularity, pricing, and performance. While this report highlights key findings, further exploration and statistical analysis can provide more in-depth insights into the complex dynamics of the gaming market.
 
-# 3. [Project 3 Otodom Properties](https://github.com/CapAmin22/AnalysisProjects.github.io/tree/main/Otodom): Otodom Properties
+# 3. [Project 3 Otodom Properties](https://github.com/CapAmin22/AnalysisProjects.github.io/tree/main/Otodom):
 
 In this analysis, we worked with a MySQL dataset containing property listings from the "otodom" database. The dataset consists of various attributes related to properties listed for sale. Our objective was to extract insights from the dataset using Python and various libraries for data manipulation, visualization, and analysis. We addressed a series of questions to gain insights into different aspects of the dataset.
 
